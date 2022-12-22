@@ -24,6 +24,6 @@ Alright, settle down there guy. We know you're sooo super serious. 🙄
 Anyway, I started this in order to re-kindle that flame. Whether it sticks this time is entirely up to me and how I choose to spend my time.
 
 ## The Technology:
-It's a simple static blogging theme called [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) which is built to work with a static site generator called [Jekykl](https://jekyllrb.com/). It's hosted on [GitHub Pages](https://pages.github.com/) and that's all there is to it!
+It's a simple static blogging theme called [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) which is built to work with a static site generator called [Jekykll](https://jekyllrb.com/). It's hosted on [GitHub Pages](https://pages.github.com/) and that's all there is to it!
 
 Performant, secure, and relatively simple. Not another system to maintain!

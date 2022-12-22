@@ -5,9 +5,7 @@ categories: [Free Writing]
 tags: [Introspection, Technology]
 ---
 
-# Greetings And Happy Winter Solstice
-
-## Welcome to my first blog post
+# Welcome to my first blog post. 
 
 The exercise of writing, it's something like an unraveling, and simultaneous weaving together of mental threads. It's good for shining an illumination of conciousness into my mental state and it also helps me to improve the construction of thoughts and ideas. Similar in a way to some of the benefits of physical exercise. Of course this is an exercise of the mind. And the mind seems to be quite connected to the body.
 
@@ -31,3 +29,5 @@ Anyway, I started this in order to hopefully re-kindle that flame. Whether it st
 What you're looking at is a simple static blogging theme called [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) which is built for a static site generator called [Jekykll](https://jekyllrb.com/). It's hosted on [GitHub Pages](https://pages.github.com/) and to be honest that's all there is to it!
 
 Performant, secure, and relatively simple. Not another system to maintain!
+
+## Also, happy Winter Solstice.

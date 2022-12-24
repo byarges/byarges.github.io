@@ -1,5 +1,5 @@
 ---
-title: Hello-Wurld
+title: Hello Wurld
 date: 2022-12-21 17:00:00
 categories: [Free Writing]
 tags: [Introspection, Technology]

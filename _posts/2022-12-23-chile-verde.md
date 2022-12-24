@@ -1,11 +1,9 @@
 ---
-title: Chile Verde
+title: Chile Verde (The Saul Way)
 date: 2022-12-23 18:00:00
 categories: [Recipes, Mexican]
 tags: [saul]
 ---
-
-# Chile Verde (The Saul Way)
 
 ## Description
 This this version of a chile verde is something I typically make every year around Christmas time. I could probably write a book about the people, events, and phases in my life that are related to this recipe and my relationship to it. This is a story that I'll spare you from. For now.

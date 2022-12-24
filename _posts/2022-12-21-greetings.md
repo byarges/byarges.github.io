@@ -7,17 +7,17 @@ tags: [Introspection, Technology]
 
 # Welcome to my first blog post. 
 
-The exercise of writing is like an unraveling of threads and a weaving of threads into unique patterns. The practice improves my ability to construct and organize my thoughts and ideas. Similar to physical exercise in many ways, but of course, this is an exercise of the mind. Which inherently means that there is indeed a physical aspect.
+The exercise of writing is like an unraveling of threads, in conjunction with a weaving of threads, into new patterns. This practice improves my ability to construct and organize my thoughts and ideas. It's similar to physical exercise in many ways, but of course, this is an exercise of the mind. Therefore, there is an inherent physical aspect.
 
 Editing my writings is also enjoyable. I can re-acquaint myself with those same concepts and ideas which I had been excited about, but they can now be further sculpted and refined.
 
 ## What are we looking at here?
 
-To be honest, I have a track record of being a serial, half-ass personal website maker so there's the possibility that this is just another iteration of that pattern. What I mean is that I've created several other personal websites because the exercise of just going through the process of creating something from scratch is an interesting challenge, but in the end these projects get "archived" some time after initial release. 
+To be honest, I have a track record as a serial, half-ass personal website maker so there is the possibility that this may be just another iteration of that pattern. What I mean is that I've created several other personal websites in the past because the exercise of just creating something from scratch is an interesting challenge. In the end these projects have been archived and removed some time later.
 
 I'd like to say it's been just about the fun of solving the puzzle of getting different types of setups up and running in different environments just because that alone is an intriguing exercise.
 
-I'd like to believe that reasoning. Really though, the reason I hadn't been keeping up is because I simply hadn't been taking the time for myself to do so!
+I'd like to believe that reasoning. Really though, the reason I hadn't been keeping up is simply because I haven't taken the time for myself to maintain those pursuits. In summary, because I just haven't.
 
 ## "But this time will be different!"
 

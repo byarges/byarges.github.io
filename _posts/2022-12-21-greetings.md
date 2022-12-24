@@ -7,7 +7,7 @@ tags: [Introspection, Technology]
 
 # Welcome to my first blog post. 
 
-The exercise of writing is like an unraveling of threads, in conjunction with a weaving of threads, into new patterns. This practice improves my ability to construct and organize my thoughts and ideas. It's similar to physical exercise in many ways, but of course, this is an exercise of the mind. Therefore, there is an inherent physical aspect.
+The exercise of writing is like an unraveling of threads, along with a weaving of those threads into new patterns. This practice improves my ability to construct and organize my thoughts and ideas. It's similar to physical exercise in many ways, but of course, this is an exercise of the mind. Therefore, there is an inherent physical aspect.
 
 Editing my writings is also enjoyable. I can re-acquaint myself with those same concepts and ideas which I had been excited about, but they can now be further sculpted and refined.
 

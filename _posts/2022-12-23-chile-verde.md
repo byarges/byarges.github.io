@@ -8,7 +8,7 @@ tags: [saul]
 # Chile Verde (The Saul Way)
 
 ## Description
-This recipe is something I typically make every year around Christmas time. There's a bit of a story behind this recipe and my relationship to it including the way that it also relates to the person who I documented it from. This is a story that I'll spare you from. For now. Imagine that, an online recipe that doesn't start out with someone trying to tell you their life story while advertisements fill up the majority of your browser.
+This this version of a chile verde is something I typically make every year around Christmas time. I could probably write a book about the people, events, and phases in my life that are related to this recipe and my relationship to it. This is a story that I'll spare you from. For now.
 
 ## Ingredients
 

@@ -26,6 +26,6 @@ Alright, settle down there guy. We know you're super serious this time. 🙄
 Anyway, I started this site in order to hopefully re-kindle that flame. Whether it sticks or not this time is entirely up to me and how I choose to spend my time.
 
 ## Really though, what are we looking at here?
-You're seeing my thoughts written in [Markdown](https://www.markdownguide.org/), which gets constructed into a web page rendered with a static blog theme called [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) which is built for a static site generator written in called [Jekykll](https://jekyllrb.com/). This website is hosted on [GitHub Pages](https://pages.github.com/), my domain name is registered through a typical provider, and to be honest that's all there is to it!
+You're seeing my thoughts written in [Markdown](https://www.markdownguide.org/), which gets constructed into a web page and rendered into a static blog theme called [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) which is designed for a static site generator, written in Ruby, called [Jekykll](https://jekyllrb.com/). This website is hosted on [GitHub Pages](https://pages.github.com/), my domain name is registered through some typical provider, and to be honest that's all there is to it!
 
 ## Happy Winter Solstice ❤️

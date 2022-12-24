@@ -5,8 +5,7 @@ categories: [Recipes, Mexican]
 tags: [saul]
 ---
 
-## Description
-This this version of a chile verde is something I typically make every year around Christmas time. I could probably write a book about the people, events, and phases in my life that are related to this recipe and my relationship to it. This is a story that I'll spare you from. For now.
+This is a chile verde that I typically make every year around Christmas time. I honestly could write an entire book about my relationship to this recipe. But I'll spare you from that.
 
 ## Ingredients
 
@@ -19,10 +18,11 @@ This this version of a chile verde is something I typically make every year arou
 - 3-4 lbs pork, lamb, or beef cut into cubes
 - 5 Yukon Gold potatoes
 - 1 lrg stalk celery diced
-- 2 tbsp minced garlic
+- 2 tbsp garlic minced
 - 2 lrg cans ortega diced green chiles
 - 2 cans stewed tomatoes
 - 1 can of beef consommé 
+
 
 
 

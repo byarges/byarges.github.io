@@ -17,7 +17,7 @@ To be honest, I have a track record as a serial, half-ass personal website maker
 
 I'd like to say it's been just about the fun of solving the puzzle of getting different types of setups up and running in different environments just because that alone is an intriguing exercise.
 
-I'd like to believe that reasoning. Really though, the reason I hadn't been keeping up is simply because I haven't taken the time for myself to maintain those pursuits. In summary, because I just haven't.
+I'd like to believe that reasoning. Really though, the reason I hadn't been keeping up is simply because I hadn't taken the time for myself to maintain those pursuits.
 
 ## "But this time will be different!"
 

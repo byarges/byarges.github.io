@@ -28,4 +28,4 @@ Anyway, I started this site in order to hopefully re-kindle that flame. While I'
 ## Really though, what are we looking at here?
 You're seeing my thoughts written in [Markdown](https://www.markdownguide.org/), which ends up getting constructed into a web page and rendered into a static blog theme called [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) which is designed for a static site generator, written in Ruby, called [Jekykll](https://jekyllrb.com/). This website is hosted on [GitHub Pages](https://pages.github.com/), my domain name is registered through some typical provider, and to be honest that's all there is to it!
 
-## Happy Winter Solstice ❤️
+## Happy Winter Solstice! ❤️

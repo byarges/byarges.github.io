@@ -3,9 +3,6 @@ layout: page
 # The Home page layout
 ---
 
-<h2>Hello Dear Reader</h2>
-<p>Thank you for visiting my personal website. It's very new and I'm still filling in some details. I temporarily stuck a contact form at the bottom of this page. Come back again soon.</p>
-
 {% assign pinned = site.posts | where: "pin", "true" %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true and item.hidden != true" %}
 
@@ -95,23 +92,3 @@ layout: page
 {% if paginator.total_pages > 0 %}
   {% include post-paginator.html %}
 {% endif %}
-
-<div>
-<!-- modify this form HTML and place wherever you want your form -->
-<h3>Contact:</h3>
-<form
-  action="https://formspree.io/f/xdobkear"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-</div>

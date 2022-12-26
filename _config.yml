@@ -14,23 +14,22 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Los_Angeles
+timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ben Yarges                          # the main title
+title: Chirpy                          # the main title
 
-tagline: Generalist / Nerd   # it will display as the sub-title
+tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-
-url: 'https://byarges.github.io'
+url: ''
 
 github:
-  username: byarges             # change to your github username
+  username: github_username             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -38,15 +37,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Benjamin Yarges
-  email: #example@domain.com             # change to your email address
+  name: your_full_name
+  email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # https://twitter.com/username      # change to your twitter homepage
-    # https://github.com/username       # change to your github homepage
+    - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/byarges
+    # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
 
@@ -81,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/10701204
+avatar:
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -143,7 +142,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: false    # Enable comments in posts.
+      comments: true    # Enable comments in posts.
       toc: true         # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
